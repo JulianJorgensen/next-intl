@@ -1,0 +1,27 @@
+{
+  "Index": {
+    "title": "Accueil",
+    "loggedIn": "Connecté en tant que {username}",
+    "loggedOut": "Vous êtes déconnecté.",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "secret": "Page secrète pour les utilisateurs connectés"
+  },
+  "LocaleLayout": {
+    "title": "Exemple next-intl avec Auth.js"
+  },
+  "Login": {
+    "title": "Connexion",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "submit": "Connexion",
+    "error": "{error, select, CredentialsSignin {Nom d'utilisateur ou mot de passe incorrect} other {Erreur inconnue}}"
+  },
+  "LocaleSwitcher": {
+    "switchLocale": "Passer à {locale, select, de {Allemand} en {Anglais} other {Inconnue}}"
+  },
+  "Secret": {
+    "title": "Page secrète",
+    "description": "Cette page n'est visible que pour les utilisateurs connectés."
+  }
+}
